@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyChatBot</string>
+    <string name="welcome_text">Welcome to Easy ChatGPT\nTry it out now</string>
+    <string name="write_here">Write here</string>
+</resources>
